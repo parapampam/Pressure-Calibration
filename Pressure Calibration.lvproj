@@ -20,6 +20,9 @@
 				<Item Name="LVPointTypeDef.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVPointTypeDef.ctl"/>
 				<Item Name="LVRectTypeDef.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVRectTypeDef.ctl"/>
 			</Item>
+			<Item Name="ControlReference.GetReferenceToControl.vi" Type="VI" URL="../GUI/Control Reference/ControlReference.GetReferenceToControl.vi"/>
+			<Item Name="GUI.Button.Disabled.vi" Type="VI" URL="../GUI/GUI.Button.Disabled.vi"/>
+			<Item Name="GUI.Button.SetText.vi" Type="VI" URL="../GUI/GUI.Button.SetText.vi"/>
 			<Item Name="nilvaiu.dll" Type="Document" URL="nilvaiu.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
